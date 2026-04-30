@@ -32,13 +32,3 @@ I am a Computer Science student interested in full-stack development, database m
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### Student Attendance CRUD System
-
-A full-stack DBMS project that connects a React frontend, Express backend, and MySQL database. It supports create, read, update, and delete operations for student records and attendance data.
-
-[View Repository](https://github.com/Aditya099pat/student-attendance-crud-system)
